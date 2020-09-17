@@ -1,2 +1,2 @@
 # ExpressJet-Airlines-Performance-Analysis
-ExpressJet Airlines Performance Analysis - Created an interactive dashboard using Tableau to understand the performance of ExpressJet Airlines compared to other domestic airlines in USA using different delay metrics.
+Visually represented and analyzed the factors that contribute to the performance of Express Jet Airlines in current market with real time data. Using the visual representations, we captured the key competitor and major airports that needs to be focused for an improved performance of Express Jet airlines.
