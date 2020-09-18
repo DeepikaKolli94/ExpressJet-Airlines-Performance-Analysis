@@ -1,7 +1,7 @@
 # ExpressJet-Airlines-Performance-Analysis
 Visually represented and analyzed the factors that contribute to the performance of Express Jet Airlines in current market with real time data. Using the visual representations, we captured the key competitor and major airports that needs to be focused for an improved performance of Express Jet airlines. visualizations.pdf file consists on the initial analysis on the data.
 Following is a link to all the visualisations that I have created in Tableau for this project - 
-https://public.tableau.com/profile/deepika7465#!/
+https://public.tableau.com/profile/deepika94#!/
  
 
 # Data
